@@ -19,13 +19,17 @@
   margin-bottom: 15px;
 }
 
-.product__info {
+.product__info { 
   height: 100px;
   margin-bottom: 15px;
 }
 
 .product__price {
   margin-top: 5px;
+}
+
+.product__rating{
+    display: flex;
 }
 
 .product > button {
